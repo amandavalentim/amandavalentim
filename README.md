@@ -20,10 +20,11 @@
   <img align="center" alt="Amanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Amanda-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/967928980336443445/971558472481120276/download20220400202113.png">
   
-## 
+## <h3> Minhas Redes </h3>
   
  <div>
    <a href="https://discord.com/channels/967928980336443442/967928980336443445" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/amanda-valentim-a5941a1b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>  
   
   
