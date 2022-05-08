@@ -18,7 +18,8 @@
   <img align="center" alt="Amanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Amanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Amanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Amanda-pic" height="250" style="border-radius:70px;" src="https://media.discordapp.net/attachments/967928980336443445/971558472481120276/download20220400202113.png">
+   <img align="right" alt="Amanda-pic" height="200" style="border-radius:80px;" src="https://media.discordapp.net/attachments/967928980336443445/971558472481120276/download20220400202113.png">
+</div>  
   
 ## <h3> Minhas Redes </h3>
   
