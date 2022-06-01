@@ -1,7 +1,7 @@
 ### Olá! Eu sou Amanda Valentim. Seja bem-vindo(a) ao meu perfil! 😀👋
 
 
-- 🌱 Atualmente estou aprendendo: Front-end e lógica de programação com JavaScript
+- 🌱 Atualmente estou aprendendo: Front-end, Java e lógica de programação com JavaScript. 
 - 📫 Meu email para contato: amandavitoriavalentim04@gmail.com
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade sobre mim: Sou aluna do Instituto Proa! 💙  
@@ -19,6 +19,7 @@
   <img align="center" alt="Amanda-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Amanda-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Amanda-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Amanda-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
    <img align="right" alt="Amanda-pic" height="200" style="border-radius:80px;" src="https://media.discordapp.net/attachments/967928980336443445/971558472481120276/download20220400202113.png">
 </div>  
   
