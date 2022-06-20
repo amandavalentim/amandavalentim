@@ -2,8 +2,8 @@
 
 
 - 🌱 Atualmente estou aprendendo: Front-end, Java e lógica de programação com JavaScript. 
-- 📫 Meu email para contato: amandavitoriavalentim04@gmail.com
-- 😄 Pronomes: Ela/Dela
+- 📫 Meu email para contato: amandavitoriavalentim04@gmail.com.
+- 😄 Pronomes: Ela/Dela.
 - ⚡ Curiosidade sobre mim: Sou aluna do Instituto Proa! 💙  
 
 <div align="center">
