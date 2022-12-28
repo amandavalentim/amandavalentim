@@ -1,10 +1,9 @@
 ### Olá! Eu sou Amanda Valentim. Seja bem-vindo(a) ao meu perfil! 😀👋
 
 
-- 🌱 Atualmente estou aprendendo: Front-end, Java e lógica de programação com JavaScript. 
+- 🌱 Atualmente estou: Desenvolvendo minhas habilidades em Front-End.
 - 📫 Meu email para contato: amandavitoriavalentim04@gmail.com.
-- 😄 Pronomes: Ela/Dela.
-- ⚡ Curiosidade sobre mim: Sou aluna do Instituto Proa! 💙  
+- ⚡ Curiosidade sobre mim: Sou Ex-aluna do Instituto Proa e adoro pipoca 🍿 
 
 <div align="center">
   <a href="https://github.com/amandavalentim">
