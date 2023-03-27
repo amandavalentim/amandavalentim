@@ -1,7 +1,7 @@
 ### Olá! Eu sou Amanda Valentim. Seja bem-vindo(a) ao meu perfil! 😀👋
 
 
-- 🌱 Atualmente estou: Desenvolvendo minhas habilidades em Front-End.
+- 🌱 Atualmente estou: Desenvolvendo minhas habilidades como fullstack.
 - 📫 Meu email para contato: amandavitoriavalentim04@gmail.com.
 - ⚡ Curiosidade sobre mim: Sou Ex-aluna do Instituto Proa e adoro pipoca 🍿 
 
