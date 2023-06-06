@@ -22,6 +22,7 @@
   <img align="center" alt="Amanda-trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
   <img align="center" alt="Amanda-git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Amanda-mysql" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Amanda-sass" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
    <img align="right" alt="Amanda-pic" height="200" style="border-radius:80px;" src="https://media.discordapp.net/attachments/967928980336443445/971558472481120276/download20220400202113.png">
 </div>  
   
