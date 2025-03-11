@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou: Desenvolvendo minhas habilidades como fullStack.
 - 📫 Meu email para contato: amandavitoriavalentim04@gmail.com.
-- ⚡ Curiosidade sobre mim: Sou Ex-aluna do Instituto Proa, trabalho na Tecnoset como desenvolvedora e adoro pipoca 🍿 
+- ⚡ Curiosidade sobre mim: Sou Ex-aluna do Instituto Proa e adoro pipoca 🍿 
 
 <div align="center">
   <a href="https://github.com/amandavalentim">
